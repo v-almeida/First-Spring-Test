@@ -15,6 +15,7 @@ public class FirstSpringTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirstSpringTestApplication.class, args);
+		System.out.println("Hello, World!");
 	}
 
 }
